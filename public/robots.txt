@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://asean-job-portal.vercel.app/sitemap.xml
