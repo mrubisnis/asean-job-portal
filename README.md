@@ -27,4 +27,4 @@ Open [http://localhost:3000](http://localhost:3000)
 
 Click the button below:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/asean-job-portal)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/mrubisnis/asean-job-portal)
